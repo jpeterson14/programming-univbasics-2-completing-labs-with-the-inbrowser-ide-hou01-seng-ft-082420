@@ -1,1 +1,1 @@
-lib/your_solution.rb puts "hello World!"
+puts "hello World!"
